@@ -1,2 +1,2 @@
 # JK.LLC
-Jk.LLC
+Jk LLC
